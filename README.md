@@ -1,15 +1,15 @@
-# AREDN Documentation
-This repository is for creating documentation for the AREDN project so it can be made available on ReadTheDocs.
+# Documentazione AREDN
+Questo repository serve per creare documentazione per il progetto AREDN in modo che possa essere reso disponibile su ReadTheDocs.
 
-## Viewing the Docs:
-To view the AREDN documentation in a web browser, navigate to [https://arednmesh.readthedocs.io/en/latest/](https://arednmesh.readthedocs.io/en/latest/) or select your choice from the `Docs` dropdown menu on [https://arednmesh.org](https://arednmesh.org).
+## Visualizzazione dei documenti:
+Per visualizzare la documentazione AREDN in un browser Web, accedere a [https://leonardinux.readthedocs.io/en/latest/×(https://leonardinux.readthedocs.io/en/latest/) o selezionare la scelta dalla Menu a discesa "Documenti" su [https://arednmesh.org] (https://arednmesh.org).
 
-## Exporting to PDF:
-While viewing the AREDN documentation in your web browser, you will see the contents list in the left panel. At the bottom of the panel is a drawer labeled "ReadTheDocs" showing the version you are viewing. Click the label bar to open it. From the drawer you can export the documentation set as a single PDF or Epub file. This is handy if you want to take a PDF copy of the guidebook with you into the field where you do not have Internet access.
+## Esportazione in PDF:
+Durante la visualizzazione della documentazione AREDN nel browser Web, verrà visualizzato l'elenco dei contenuti nel riquadro di sinistra. Nella parte inferiore del pannello è presente un cassetto con l'etichetta "ReadTheDocs" che mostra la versione che stai visualizzando. Fai clic sulla barra dell'etichetta per aprirla. Dal cassetto è possibile esportare la documentazione impostata come un singolo file PDF o Epub. Questo è utile se vuoi portare con te una copia PDF della guida nel campo in cui non hai accesso a Internet.
 
-## Contributing:
-If you are interested in contributing to the rapidly growing set of AREDN related information, you can easily do so on GitHub. The workflow for contributing documentation is identical to the workflow for contributing code which is described in detail here: [How to Use GitHub for AREDN](https://github.com/aredn/documentation/blob/master/How%20to%20Use%20GitHub%20for%20AREDN.md).
+## Contribuire:
+Se sei interessato a contribuire all'insieme in rapida crescita di informazioni relative ad AREDN, puoi farlo facilmente su GitHub. Il flusso di lavoro per la documentazione contributiva è identico al flusso di lavoro per il codice contributivo che è descritto in dettaglio qui: [Come utilizzare GitHub per AREDN] (https://github.com/aredn/documentation/blob/master/How%20to%20Use % 20GitHub% 20for% 20AREDN.md).
 
-The only difference is the repository name of `aredn/documentation` and the main branch name of `master`. Your local code branch name can be anything that makes sense to you. After you create your Pull Request, the AREDN team will review your request just as it does for code changes. Once your documentation contributions are committed to the AREDN GitHub repository, a webhook updates and builds the latest docs for viewing and exporting on ReadTheDocs.org
+L'unica differenza è il nome del repository di `aredn / documentazione` e il nome del ramo principale di` master`. Il nome della tua filiale di codice locale può essere qualsiasi cosa abbia senso per te. Dopo aver creato la tua richiesta pull, il team AREDN esaminerà la tua richiesta proprio come avviene per le modifiche al codice. Una volta che i tuoi contributi di documentazione sono stati assegnati al repository GEDHub di AREDN, un webhook aggiorna e crea gli ultimi documenti per la visualizzazione e l'esportazione su ReadTheDocs.org
 
-AREDN documentation is written using the reStructuredText markup language. Text is saved in "rst" files. Before committing your changes, be sure to test your `rst` files to ensure they will render correctly.
+La documentazione AREDN è scritta usando il linguaggio di markup reStructuredText. Il testo viene salvato in "primi" file. Prima di eseguire le modifiche, assicurati di testare i tuoi primi file per assicurarti che vengano visualizzati correttamente.
