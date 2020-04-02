@@ -2,7 +2,7 @@
 Questo repository serve per creare documentazione per il progetto AREDN in modo che possa essere reso disponibile su ReadTheDocs.
 
 ## Visualizzazione dei documenti:
-Per visualizzare la documentazione AREDN in un browser Web, accedere a [https://leonardinux.readthedocs.io/en/latest/×(https://leonardinux.readthedocs.io/en/latest/) o selezionare la scelta dalla Menu a discesa "Documenti" su [https://arednmesh.org] (https://arednmesh.org).
+Per visualizzare la documentazione AREDN in un browser Web, accedere a [https://documentazione-aredn.readthedocs.io/it/latest×(https://documentazione-aredn.readthedocs.io/it/latest/) o selezionare la scelta dalla Menu a discesa "Documenti" su [https://arednmesh.org] (https://arednmesh.org).
 
 ## Esportazione in PDF:
 Durante la visualizzazione della documentazione AREDN nel browser Web, verrà visualizzato l'elenco dei contenuti nel riquadro di sinistra. Nella parte inferiore del pannello è presente un cassetto con l'etichetta "ReadTheDocs" che mostra la versione che stai visualizzando. Fai clic sulla barra dell'etichetta per aprirla. Dal cassetto è possibile esportare la documentazione impostata come un singolo file PDF o Epub. Questo è utile se vuoi portare con te una copia PDF della guida nel campo in cui non hai accesso a Internet.
